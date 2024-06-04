@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9e01&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7312&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Amin+Morais;Tenho+17+anos;Sou+estudante+do+Cotemig;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
-
 ### Skills principais:
 ![Html5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
